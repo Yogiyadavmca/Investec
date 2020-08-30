@@ -1,0 +1,6 @@
+module Pods_Investec_InvestecTests {
+  umbrella header "Pods-Investec-InvestecTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
